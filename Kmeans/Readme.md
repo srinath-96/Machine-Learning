@@ -1,4 +1,4 @@
-#KMEANS
+# KMEANS
 
 ### CONCEPT
 
@@ -50,8 +50,8 @@ Euclidean distance of a point in n-dimensional space is given by the Pythagorean
 ### OPTIMIZATION PROBLEM REGARDING KMEANS
 
 The Kmeans algorithm is minimizing a Loss function to get an optimized output, that is the centers of the cluster.
+![image-20201002195457762](C:\Users\srina\AppData\Roaming\Typora\typora-user-images\image-20201002195457762.png)
 
-<img src="C:\Users\srina\AppData\Roaming\Typora\typora-user-images\image-20201002194529306.png" alt="image-20201002194529306" style="zoom:80%;" />
 
 ### STEPS TO PERFORM THE ALGORITHM
 
@@ -65,7 +65,7 @@ The Kmeans algorithm is minimizing a Loss function to get an optimized output, t
 
    
 
-SOURCE:[Kmeans]:https://www.kdnuggets.com/2019/05/guide-k-means-clustering-algorithm.html
+SOURCE-[Kmeans](https://www.kdnuggets.com/2019/05/guide-k-means-clustering-algorithm.html)
    
 
 
