@@ -1,3 +1,5 @@
+#KMEANS
+
 ### CONCEPT
 
 Kmeans Algorithm is an unsupervised clustering algorithm. K-means uses an iterative refinement method to produce its final clustering based on the number of clusters defined by the user (represented by the variable *K*) and the dataset. 
