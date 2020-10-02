@@ -11,7 +11,7 @@ When you define the value of K you are actually telling the algorithm how many m
 ### EUCLIDEAN DISTANCE
 
 Euclidean distance of a point in n-dimensional space is given by the Pythagorean formula as below :
-![equation](![equation](file:///C:/Users/srina/Desktop/ll.png)
+![equation](![equation](https://user-images.githubusercontent.com/65416747/94936247-a101af80-04eb-11eb-9b9c-c40ece559373.png)
 
 
 
@@ -19,7 +19,7 @@ Euclidean distance of a point in n-dimensional space is given by the Pythagorean
 ### OPTIMIZATION PROBLEM REGARDING KMEANS
 
 The Kmeans algorithm is minimizing a Loss function to get an optimized output, that is the centers of the cluster.
-![equation](file:///C:/Users/srina/Desktop/lk.png)
+![equation](https://user-images.githubusercontent.com/65416747/94936137-7b74a600-04eb-11eb-918f-dca79fdf984f.png)
 
 
 ### STEPS TO PERFORM THE ALGORITHM
