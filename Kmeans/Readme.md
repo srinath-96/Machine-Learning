@@ -11,7 +11,7 @@ When you define the value of K you are actually telling the algorithm how many m
 ### EUCLIDEAN DISTANCE
 
 Euclidean distance of a point in n-dimensional space is given by the Pythagorean formula as below :
-![equation](![equation](https://user-images.githubusercontent.com/65416747/94936247-a101af80-04eb-11eb-9b9c-c40ece559373.png)
+![equation](https://user-images.githubusercontent.com/65416747/94936247-a101af80-04eb-11eb-9b9c-c40ece559373.png)
 
 
 
